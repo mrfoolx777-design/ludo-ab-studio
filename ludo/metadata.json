@@ -1,0 +1,6 @@
+{
+  "name": "AJ LUDO",
+  "description": "AJ LUDO — Premium mobile-first Ludo game by AJ Studios (Muhammad Abdullah Malik). Play Your Way in Offline AI, Local Pass & Play, or Server-Authoritative Online Multiplayer with 2D & 3D Ultra HD graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
